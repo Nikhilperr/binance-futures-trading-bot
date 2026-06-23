@@ -5,6 +5,10 @@
 [![Platform](https://img.shields.io/badge/Platform-Windows%20%7C%20Linux-brightgreen.svg)]()
 [![Binance Futures](https://img.shields.io/badge/Binance-Futures-orange.svg)]()
 
+<p align="center">
+  <img src="assets/dashboard_preview.png" alt="Dashboard Preview" width="100%" style="border-radius: 10px; border: 1px solid #1f2430;" />
+</p>
+
 An advanced, fee-aware, milestone-based compounding trading system built on Binance Futures. Designed to compound starting capital aggressively into **10x returns** (e.g. $10 → $100, $100 → $1,000) using multi-symbol scanning, dynamic signal weights, and institutional-grade risk gates.
 
 ---
